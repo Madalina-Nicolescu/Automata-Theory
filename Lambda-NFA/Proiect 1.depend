@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584221011 source:c:\facultate\semestrul 2\lfa\lab1\proiect 1\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<set>
+	<fstream>
+
